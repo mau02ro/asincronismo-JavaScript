@@ -9,7 +9,7 @@
     "promise": "node src/promise/index.js",
     "promise:challenge": "node src/promise/challenge.js",
     "async": "node src/async-await/index.js",
-    "async:challeng": "node src/async-await/challenge.js"
+    "async:challenge": "node src/async-await/challenge.js"
   },
   "repository": {
     "type": "git",
